@@ -1,0 +1,6 @@
+name: SpectatorHide
+version: '${project.version}'
+main: net.daechler.spectatorhide.SpectatorHide
+api-version: 1.19
+authors: [Daechler]
+description: Hide players in spectator mode completely.
